@@ -310,3 +310,7 @@
   * At present, the death rate of COVID-19 (US) is around 1.5%, and the average life expectancy has been reduced by 2 years
 * [如何看待美国CDC宣称新冠死亡人数被高估？](https://www.zhihu.com/question/510943670/answer/2308499719)*(Mandarin, Use Chrome's Translator)*
 * [NVSS deaths](https://www.cdc.gov/nchs/nvss/deaths.htm)
+
+
+> The following content is translated by machine, and can be merged after manual modification
++ * Liquid: Drink coffee (-22% \ ~ -12% ACM), drink milk (-17% \ ~ -10% ACM), drink tea (-15% \ ~ -8% ACM), drink less or not or notDrink a sweet drink (otherwise one cup of+7% ACM,+dopamine), quit drinking (otherwise+\ \ ~ 50% ACM, no upper limit)
